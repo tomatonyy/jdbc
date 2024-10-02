@@ -22,5 +22,8 @@
    - 플레이리스트 생성번호와 저장된 곡 갯수로 구성된다.
 </pre>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6196f5f-6de9-4e0e-9193-953790a93efd">
+  <img src="https://github.com/user-attachments/assets/d0ccad83-e75a-4429-89ad-953b6892b343">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e696b4c0-240c-4a0d-aafe-591bd1f1f66f">
 </p>
