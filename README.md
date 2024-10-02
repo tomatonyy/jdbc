@@ -21,3 +21,6 @@
    - 듣고 싶은 음악들을 담아서 저장할 수 있다.
    - 플레이리스트 생성번호와 저장된 곡 갯수로 구성된다.
 </pre>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e6196f5f-6de9-4e0e-9193-953790a93efd">
+</p>
