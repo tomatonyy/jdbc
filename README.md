@@ -21,7 +21,4 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e696b4c0-240c-4a0d-aafe-591bd1f1f66f">
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1733c5db-ec15-4ab5-9118-19a3575e7631">
-</p>
 
