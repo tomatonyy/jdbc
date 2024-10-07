@@ -14,6 +14,8 @@
    - 같은 제목의 다른 노래가 있을 수 있기 때문에 곡의 식별 코드로 관리한다.  
   2. <b>사용자(User)</b>
    - 사용자는 음악 리스트를 편집하여 감상을 할 수 있다.
+  3. <b>플레이리스트(Playlist)</b>
+   - 음악을 골라서 담고 저장하는 기능을 제공한다.
 </pre>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0ccad83-e75a-4429-89ad-953b6892b343">
